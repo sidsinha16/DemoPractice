@@ -1,1 +1,1 @@
-var ij;
+console.log("Hello world")
